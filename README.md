@@ -14,7 +14,7 @@ cd web-security-first-lab
 python lab.py --mode vulnerable
 ```
 
-在浏览器打开 **http://127.0.0.1:8765/**。
+在浏览器打开 [http://127.0.0.1:8765/](http://127.0.0.1:8765/)。
 
 | 用户名 | 密码 |
 | --- | --- |
